@@ -9,6 +9,7 @@
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/a8bbfaac-d93e-49d4-aff6-2d249913f595" />
 
 ## 5. test using 'sql plus'
-username: system
-password: password
+  username: system
+  password: password
+  
 <img width="509" alt="image" src="https://github.com/user-attachments/assets/f906d614-70fb-4b8e-89e9-65fce6462638" />
