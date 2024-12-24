@@ -13,3 +13,7 @@
   password: password
   
 <img width="509" alt="image" src="https://github.com/user-attachments/assets/f906d614-70fb-4b8e-89e9-65fce6462638" />
+
+## 6. install 'sql developer tool'
+    https://www.oracle.com/in/database/sqldeveloper/technologies/download/
+  "Windows 64-bit with JDK 17 included"   
