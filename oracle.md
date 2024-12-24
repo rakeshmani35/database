@@ -1,6 +1,10 @@
-#oracle express edition download
-https://www.oracle.com/database/technologies/xe-downloads.html
+## 1.oracle express edition download
+    https://www.oracle.com/database/technologies/xe-downloads.html
  - Oracle Database 21c Express Edition for Windows x64
 
-# unzip file
-#double click on 'setup' wizard
+## 2. unzip file
+## 3. double click on 'setup' wizard
+
+## 4. db info
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/a8bbfaac-d93e-49d4-aff6-2d249913f595" />
+
